@@ -1,0 +1,2 @@
+Name of file: duck.
+File created for testing purpose.
